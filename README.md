@@ -1,2 +1,2 @@
-# Proposal_Internship2
-proposal
+# Template
+Template untuk buku informatika standar
